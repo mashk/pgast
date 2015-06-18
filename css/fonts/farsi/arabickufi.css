@@ -1,0 +1,22 @@
+@font-face {
+  font-family: 'Droid Arabic Kufi';
+  font-style: normal;
+  font-weight: 400;
+  src: url(http://mashk.github.io/assets/fonts/farsi/arabickufi/DroidKufi-Regular.eot);
+  src: url(http://mashk.github.io/assets/fonts/farsi/arabickufi/DroidKufi-Regular.eot?#iefix) format('embedded-opentype'),
+       url(http://mashk.github.io/assets/fonts/farsi/arabickufi/DroidKufi-Regular.woff2) format('woff2'),
+       url(http://mashk.github.io/assets/fonts/farsi/arabickufi/DroidKufi-Regular.woff) format('woff'),
+       url(http://mashk.github.io/assets/fonts/farsi/arabickufi/DroidKufi-Regular.ttf) format('truetype');
+}
+
+
+@font-face {
+  font-family: 'Droid Arabic Kufi';
+  font-style: normal;
+  font-weight: 700;
+  src: url(http://mashk.github.io/assets/fonts/farsi/arabickufi/DroidKufi-Bold.eot);
+  src: url(http://mashk.github.io/assets/fonts/farsi/arabickufi/DroidKufi-Bold.eot?#iefix) format('embedded-opentype'),
+       url(http://mashk.github.io/assets/fonts/farsi/arabickufi/DroidKufi-Bold.woff2) format('woff2'),
+       url(http://mashk.github.io/assets/fonts/farsi/arabickufi/DroidKufi-Bold.woff) format('woff'),
+       url(http://mashk.github.io/assets/fonts/farsi/arabickufi/DroidKufi-Bold.ttf) format('truetype');
+}

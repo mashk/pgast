@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'Droid Arabic Naskh';
+  font-style: normal;
+  font-weight: 400;
+  src: url(http://mashk.github.io/assets/fonts/farsi/arabicnaskh/DroidNaskh-Regular.eot);
+  src: url(http://mashk.github.io/assets/fonts/farsi/arabicnaskh/DroidNaskh-Regular.eot?#iefix) format('embedded-opentype'),
+       url(http://mashk.github.io/assets/fonts/farsi/arabicnaskh/DroidNaskh-Regular.woff2) format('woff2'),
+       url(http://mashk.github.io/assets/fonts/farsi/arabicnaskh/DroidNaskh-Regular.woff) format('woff'),
+       url(http://mashk.github.io/assets/fonts/farsi/arabicnaskh/DroidNaskh-Regular.ttf) format('truetype');
+}
+
+
+
+@font-face {
+  font-family: 'Droid Arabic Naskh';
+  font-style: normal;
+  font-weight: 700;
+  src: url(http://mashk.github.io/assets/fonts/farsi/arabicnaskh/DroidNaskh-Bold.eot);
+  src: url(http://mashk.github.io/assets/fonts/farsi/arabicnaskh/DroidNaskh-Bold.eot?#iefix) format('embedded-opentype'),
+       url(http://mashk.github.io/assets/fonts/farsi/arabicnaskh/DroidNaskh-Bold.woff2) format('woff2'),
+       url(http://mashk.github.io/assets/fonts/farsi/arabicnaskh/DroidNaskh-Bold.woff) format('woff'),
+       url(http://mashk.github.io/assets/fonts/farsi/arabicnaskh/DroidNaskh-Bold.ttf) format('truetype');
+}
